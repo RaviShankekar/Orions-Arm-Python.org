@@ -9,3 +9,4 @@
  ["wire-guard"]
  [Oscillating currents/Adaptive Bitrates/Reactive Neutrinos/Ai Cloud Development= Energy That evolves overtime)]
  [///%~~~~~~~~~%\\\_<<<~~~~~~~+~.-.~.+.~.+.~.-~+~~~~~~>>>]~[(=~=)]>[(=~<]~~+====+~~>>>)__]____=========------.~~.~~.~~.~~.~~.~~.~_1~1_]
+#amendment
